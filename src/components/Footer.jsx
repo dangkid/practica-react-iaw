@@ -26,16 +26,16 @@ function Footer() {
           <Col md={6} className="text-center text-md-end">
             <h5 className="mb-3">Síguenos en redes sociales</h5>
             <div className="social-icons">
-              <a href="https://www.facebook.com" target="_blank" rel="noopener noreferrer">
+              <a href="https://www.facebook.com/profile.php?id=100011212297789&locale=es_ES" target="_blank" rel="noopener noreferrer">
                 <FaFacebook />
               </a>
-              <a href="https://www.instagram.com" target="_blank" rel="noopener noreferrer">
+              <a href="https://www.instagram.com/ies_curavalera/" target="_blank" rel="noopener noreferrer">
                 <FaInstagram />
               </a>
-              <a href="https://www.twitter.com" target="_blank" rel="noopener noreferrer">
+              <a href="https://x.com/iesCuraValera" target="_blank" rel="noopener noreferrer">
                 <FaTwitter />
               </a>
-              <a href="https://www.youtube.com" target="_blank" rel="noopener noreferrer">
+              <a href="https://www.youtube.com/user/iescuravalera" target="_blank" rel="noopener noreferrer">
                 <FaYoutube />
               </a>
             </div>
