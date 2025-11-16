@@ -1,0 +1,33 @@
+.aside-section {
+  background-color: #f5f5f5;
+  padding: 25px;
+  border-radius: 10px;
+  margin: 20px 0;
+  border: 2px solid #ddd;
+}
+
+.aside-content h3 {
+  color: #222;
+  margin-bottom: 15px;
+  font-weight: bold;
+  font-size: 1.4rem;
+  border-bottom: 2px solid #007bff;
+  padding-bottom: 8px;
+}
+
+.video-container {
+  margin-top: 25px;
+  padding-top: 20px;
+  border-top: 1px solid #ccc;
+}
+
+.video-container h3 {
+  font-size: 1.3rem;
+  margin-bottom: 12px;
+}
+
+.video-container iframe {
+  border-radius: 6px;
+  border: 2px solid #ccc;
+  box-shadow: 0 2px 6px rgba(0, 0, 0, 0.15);
+}
