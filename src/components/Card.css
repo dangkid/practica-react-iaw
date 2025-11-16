@@ -1,0 +1,36 @@
+.custom-card {
+  height: 100%;
+  border: 2px solid #ccc;
+  border-radius: 8px;
+  box-shadow: 0 3px 6px rgba(0, 0, 0, 0.15);
+}
+
+.card-img {
+  height: 220px;
+  object-fit: cover;
+  border-bottom: 2px solid #ddd;
+}
+
+.card-body-custom {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  padding: 18px;
+}
+
+.card-body-custom .card-title {
+  min-height: 50px;
+  display: flex;
+  align-items: center;
+  font-size: 1.3rem;
+  font-weight: bold;
+  color: #333;
+  margin-bottom: 12px;
+}
+
+.card-body-custom .card-text {
+  flex: 1;
+  font-size: 0.95rem;
+  line-height: 1.5;
+  color: #555;
+}
